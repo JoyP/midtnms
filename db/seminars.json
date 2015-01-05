@@ -1,0 +1,24 @@
+{
+  "_id"      : {"$oid":"100000000000000000000001"},
+  "name"     : "Fall Seminar 2014",
+  "date"     : "September 27th, 2014",
+  "location" : "TriStar Skyline Medical Center",
+  "street"   : "3441 Dickerson Pike",
+  "city"     : "Nashville, TN",
+  "zip"      : "37207",
+  "presentations" : [
+    {"title":"Breast Imaging and The Making of Alphabet Soup- The Why & What of MQSA & BI-RADS",
+    "presenter":"Marynelle Klumpe, MD"},
+    {"title":"The Things No One Tells You on the Breast Cancer Journey",
+      "presenter":"Melanie Cavender, B.S. ACE, AFPA, PACE"},
+    {"title":"Hereditary Breast Cancer update- More than BRCA1 & BRCA2",
+      "presenter":"Susan Caro, RNC, MSN, APNG"},
+    {"title":"Radiation Therapy of the Breast",
+      "presenter":"Leslie Nokes",
+      "credentials" : "B.S., R.T.(R)(T)"},
+    {"title":"What does all of this recent talk about breast density really mean?",
+      "presenter":"Melinda Sava, MD"},
+    {"title":"Breast Calcifications",
+      "presenter":"Gabriel Starace, MD"}
+    ]
+}

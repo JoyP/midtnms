@@ -1,0 +1,40 @@
+{
+  "_id"      : {"$oid":"100000000000000000000001"},
+  "fname"    : "Bobette",
+  "lname"    : "Felix",
+  "photo"    : "http://greatcatsoftheworld.files.wordpress.com/2012/04/beautiful-bobcat.jpg",
+  "email"    : "bob@aol.com",
+  "street"   : "101 Main St.",
+  "city"     : "Nashville, TN",
+  "zip"      : "37212"
+}
+{
+  "_id"      : {"$oid":"100000000000000000000002"},
+  "fname"    : "Sue",
+  "lname"    : "Porque",
+  "photo"    : "http://sites.duke.edu/theconnection/files/2012/05/sow1.jpg",
+  "email"    : "sue@aol.com",
+  "street"   : "101 Allston St.",
+  "city"     : "Medford, MA",
+  "zip"      : "02155"
+}
+{
+  "_id"      : {"$oid":"100000000000000000000003"},
+  "fname"    : "Jackie",
+  "lname"    : "Hopper",
+  "photo"    : "http://www.astronomy-images.com/day-images/California/Marin-Sonoma/rabbit-3D.KI8Q4605.jpg",
+  "email"    : "jack@aol.com",
+  "street"   : "PO BOX 35934",
+  "city"     : "Syracuse, NY",
+  "zip"      : "13235"
+}
+{
+  "_id"      : {"$oid":"100000000000000000000004"},
+  "fname"    : "Iris",
+  "lname"    : "Sophia`",
+  "photo"    : "http://www.oregonzoo.org/sites/default/files/gallery/images/H_orig_western_schreech_owl_eye1_gal.jpg",
+  "email"    : "iris@aol.com",
+  "street"   : "8305 Huron River Drive",
+  "city"     : "Dexter, MI",
+  "zip"      : "48104"
+}
