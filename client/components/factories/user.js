@@ -1,7 +1,7 @@
 (function(){
   'use strict';
 
-  angular.module('mean-template')
+  angular.module('midtnms')
   .factory('User', ['$http', function($http){
 
     function register(user){
@@ -19,4 +19,3 @@
     return {register:register, login:login, logout:logout};
   }]);
 })();
-

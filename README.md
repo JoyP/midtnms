@@ -1,4 +1,4 @@
-## name of project
+## Middle Tennessee Mammography Society
 ### Code Badges
 build status icon
 coverage status icon
@@ -8,7 +8,7 @@ coverage status icon
 ![Image2](https://raw.githubusercontent.com/nss-cohort-2014-06-07/express-template/master/docs/screenshots/two.jpg)
 
 ### Description
-write a description about your project
+Website for the Middle Tennessee Mammography Society
 
 ### Models
 ```
@@ -29,9 +29,9 @@ Collection 2
 ```
 
 ### Features
-- [x] Feature 1
+- [ ] Feature 1
 - [ ] Feature 2
-- [x] Feature 3
+- [ ] Feature 3
 
 ### Running Tests
 ```bash
@@ -40,8 +40,7 @@ $ npm test
 ```
 
 ### Contributors
-- [Chyld Medford](https://github.com/chyld)
+- [Joy Pratt](https://github.com/JoyP)
 
 ### License
 [MIT](LICENSE)
-
